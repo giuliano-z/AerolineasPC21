@@ -8,6 +8,19 @@
     <version>1.0-SNAPSHOT</version>
     <packaging>jar</packaging>
 
+    <name>Aerolíneas PC21</name>
+    <description>Sistema de gestión de vuelos y reservas con algoritmos avanzados (Grafo, AVL, Dijkstra)</description>
+    
+    <developers>
+        <developer>
+            <name>Giuliano Zulatto</name>
+            <email>giulianodanielzulatto@gmail.com</email>
+            <roles>
+                <role>Developer</role>
+            </roles>
+        </developer>
+    </developers>
+
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <maven.compiler.source>11</maven.compiler.source>
